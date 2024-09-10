@@ -1,2 +1,3 @@
-# koala-daemon
-daemon for koala music player which i am developing
+# Koala-daemon
+
+Daemon for koala music player which I am working on
